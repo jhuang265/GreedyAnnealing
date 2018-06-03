@@ -5,4 +5,4 @@
 
 - Drawmap.java: Draws a map of the locations of all cities superimposed on a real map.
 - PlotTrajectories.java: Plots the best Hamiltonian cycle that the program calculates.
-- SimulatedAnnealing.java: Configurations for annealing and calculation of best paths.
+- GreedyAnnealing.java: Configurations for annealing and calculation of best paths.
